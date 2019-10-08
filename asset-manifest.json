@@ -1,7 +1,7 @@
 {
   "main.css": "/talk-lavamoat-devcon5/static/css/main.6fdce9d0.chunk.css",
-  "main.js": "/talk-lavamoat-devcon5/static/js/main.122abf4a.chunk.js",
-  "main.js.map": "/talk-lavamoat-devcon5/static/js/main.122abf4a.chunk.js.map",
+  "main.js": "/talk-lavamoat-devcon5/static/js/main.0b4b6c66.chunk.js",
+  "main.js.map": "/talk-lavamoat-devcon5/static/js/main.0b4b6c66.chunk.js.map",
   "static/css/1.ff9d75ee.chunk.css": "/talk-lavamoat-devcon5/static/css/1.ff9d75ee.chunk.css",
   "static/js/1.411294a3.chunk.js": "/talk-lavamoat-devcon5/static/js/1.411294a3.chunk.js",
   "static/js/1.411294a3.chunk.js.map": "/talk-lavamoat-devcon5/static/js/1.411294a3.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.ff9d75ee.chunk.css.map": "/talk-lavamoat-devcon5/static/css/1.ff9d75ee.chunk.css.map",
   "static/css/main.6fdce9d0.chunk.css.map": "/talk-lavamoat-devcon5/static/css/main.6fdce9d0.chunk.css.map",
   "index.html": "/talk-lavamoat-devcon5/index.html",
-  "precache-manifest.ffeb8a608f109034140d90b621417e5c.js": "/talk-lavamoat-devcon5/precache-manifest.ffeb8a608f109034140d90b621417e5c.js",
+  "precache-manifest.b13e8d32e21ea7ecb124dd6981d891a0.js": "/talk-lavamoat-devcon5/precache-manifest.b13e8d32e21ea7ecb124dd6981d891a0.js",
   "service-worker.js": "/talk-lavamoat-devcon5/service-worker.js"
 }
