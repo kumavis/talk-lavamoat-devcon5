@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/talk-lavamoat-devcon5/precache-manifest.b13e8d32e21ea7ecb124dd6981d891a0.js"
+  "/talk-lavamoat-speakeasyjs-2021/precache-manifest.13f5c04c5ef5fccffd4b20035dba0c0c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/talk-lavamoat-devcon5/index.html", {
+workbox.routing.registerNavigationRoute("/talk-lavamoat-speakeasyjs-2021/index.html", {
   
-  blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
+  blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
